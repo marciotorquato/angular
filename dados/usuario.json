@@ -1,0 +1,83 @@
+﻿{
+  "_id": "58a300ff3de08a3cdce471be",
+  "nome": "Márcio Lima Torquato",
+  "sexo": "Masculino",
+  "dataNascimento": "17/08/1986",
+  "cpf": "531.735.456-85",
+  "email": "marcio.limat@gmail.com",
+  "dataCadastro":  "19/05/2000",
+  "endereco": [
+    {
+      "_id": 1,
+      "rua": "Rua das Palmeiras",
+      "numero": "564",
+      "cidade": "Vila Velha",
+      "estado": "Espirito Santo",
+      "complemento": "Próximo a praça",
+      "cep": "24654-478"
+    },
+    {
+      
+      "_id": 2,
+      "rua": "Avenida Rui Barbosa",
+      "numero": "20",
+      "cidade": "Cariacica",
+      "estado": "Espirito Santo",
+      "complemento": "",
+      "cep": "52376-789"
+    },
+    {
+      "_id": 3,
+      "rua": "Rua Belo Horizonte",
+      "numero": "1000",
+      "cidade": "Vitória",
+      "estado": "Espirito Santo",
+      "complemento": "",
+      "cep": "47897-855"
+    }
+  ],
+  "compras": [
+    {
+      "_id": 46543,
+      "produto": "Iphone 7 128gb",
+      "preco": "R$ 3.500,00",
+      "descricao": "Iphone 7 com 128gb de memória interna, sistema operacional IOS, Tela Retina HD 4,7 3D Touch Câmera 12MP.",
+      "img": "content/img/iphone7.jpg"
+    },
+    {
+      "_id": 84569,
+      "produto": "Monitor LG 29",
+      "preco": "R$ 1.500,00",
+      "descricao": "Monitor LG 29 Full HD IPS LED UltraWide 21:9 HDMI Preto - 29UM68-P",
+      "img": "content/img/monitor.jpg"
+    },
+    {
+      "_id": 74532,
+      "produto": "Impressora Multifuncional Epson",
+      "preco": "R$ 1.000,00",
+      "descricao": "Impressora Multifuncional Epson EcoTank 3 em 1 c/ Wi-Fi - L375",
+      "img": "content/img/impressora.jpg"
+    },
+    {
+      "_id": 84532,
+      "produto": "Placa de Video ASUS GTX 1050",
+      "preco": "R$ 750,00",
+      "descricao": "Placa de Video ASUS GTX 1050 2GB Expedition eSports EX-GTX1050-O2G",
+      "img": "content/img/video.jpg"
+    },
+    {
+      "_id": 93126,
+      "produto": "Servidor HP ISS ML30",
+      "preco": "R$ 3.000,00",
+      "descricao": "Servidor HP ISS ML30 Gen9 Quad-Core Xeon E3-1220v5 3.0 Ghz 8Mb 8GB DDR4 1000GB 350W 868165-S05",
+      "img": "content/img/servidor.jpg"
+    },
+    {
+      "_id": 15489,
+      "produto": "SSD Kingston 2.5´ 120GB",
+      "preco": "R$ 250,00",
+      "descricao": "SSD Kingston 2.5´ 120GB A400 SATA III Leituras: 500MBs / Gravações: 320MBs - SA400S37/120G",
+      "img": "content/img/hd.jpg"
+    }
+  ]
+}

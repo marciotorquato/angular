@@ -1,0 +1,45 @@
+﻿<div class="jumbotron row">
+    <h2 class="text-center">Endereços Cadastrados</h2>
+
+    <div class="panel panel-default col-md-10 col-md-offset-1 h4" ng-repeat="endereco in enderecos">
+        <div class="panel-body col-md-12">            
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>Rua:</label>
+                    <p>{{endereco.rua}}</p>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>Numero:</label>
+                    <p>{{endereco.numero}}</p>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>Cidade:</label>
+                    <p>{{endereco.cidade}}</p>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>Estado:</label>
+                    <p>{{endereco.estado}}</p>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>Complemento:</label>
+                    <p>{{endereco.complemento}}</p>
+                </div>
+            </div>
+            <div class="form-group col-md-4">
+                <div class="form-group">
+                    <label>CEP:</label>
+                    <p>{{endereco.cep}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,12 @@
+﻿.imgProduto {
+    width: 140px;
+    height: 140px;
+}
+
+.thumbnail:hover {
+    background-color: #bfbfbf;
+}
+
+.thumbnail {
+    background-color: #d9d9d9;
+}
